@@ -1,2 +1,2 @@
 FROM nginx:stable 
-COPY ./dist/gitub-actions /usr/share/nginx/html
+COPY ./dist/github-actions /usr/share/nginx/html
